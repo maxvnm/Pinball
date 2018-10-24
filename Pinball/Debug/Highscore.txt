@@ -1,0 +1,7 @@
+yoda;300
+hansolo;290
+luke;50
+obiwan;400
+palpatine;750
+username;300
+username;250
